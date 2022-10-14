@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- *  * main-entry point for the program.
- *   *
- *    * Return:0 if no errors, return non zero if errors
- *     */
+ * main - serves as entry point
+ *
+ * Return:0 when succesful but not 0 when there is error
+ */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
